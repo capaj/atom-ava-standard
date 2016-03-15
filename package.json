@@ -1,9 +1,9 @@
 {
-  "name": "ava",
+  "name": "ava-standard",
   "version": "0.3.0",
-  "description": "Snippets for AVA",
+  "description": "atom standard.js snippets for AVA",
   "license": "MIT",
-  "repository": "sindresorhus/atom-ava",
+  "repository": "capaj/atom-ava-standard",
   "private": true,
   "author": {
     "name": "Sindre Sorhus",
@@ -12,14 +12,9 @@
   },
   "maintainers": [
     {
-      "name": "Vadim Demedes",
-      "email": "vdemedes@gmail.com",
-      "url": "github.com/vdemedes"
-    },
-    {
-      "name": "James Talmage",
-      "email": "james@talmage.io",
-      "url": "github.com/jamestalmage"
+      "name": "Jiri Spac",
+      "email": "capajj@gmail.com",
+      "url": "github.com/capaj"
     }
   ],
   "engines": {

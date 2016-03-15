@@ -1,4 +1,4 @@
-# AVA
+# ava-standard
 
 > Snippets for [AVA](https://ava.li)
 Originally from [Sindre Sorhus](https://github.com/sindresorhus), now with removed semicolons.

@@ -9,7 +9,7 @@ Originally from [Sindre Sorhus](https://github.com/sindresorhus), now with remov
 ## Install
 
 ```
-$ apm install ava
+$ apm install ava-standard
 ```
 
 Or, Settings → Install → Search for `ava`

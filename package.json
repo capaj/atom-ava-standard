@@ -1,6 +1,6 @@
 {
   "name": "ava-standard",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "atom standard.js snippets for AVA",
   "license": "MIT",
   "repository": "capaj/atom-ava-standard",
